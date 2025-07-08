@@ -21,7 +21,7 @@ This project demonstrates practical implementation of:
  ## Project Structure:
  It has single linear structure, with the all files in the root directory
 
-Project Implementation:
+## Project Implementation:
 -It can either be implemented by using "predictor.py" file for a terminal based approach or the "dashboard.py" for a streamlit based dashbaord display approach.
  
 
